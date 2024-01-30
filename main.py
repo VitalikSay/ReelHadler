@@ -13,8 +13,9 @@ settings.ReadSettings_Xml(settings_xml)
 base_reelsets = settings.GetReelsets(0)
 base_respin_reelsets = settings.GetReelsets(2)
 
-print(base_reelsets[3].FindCombination(r'\d{1,2},\d{1,2},9',
-                                              r'\d{1,2},\d{1,2},9',
-                                              r'\d{1,2},\d{1,2},9',
-                                              r'\d{1,2},\d{1,2},9',
-                                              r'\d{1,2},\d{1,2},9', indexes=False))
+print(base_reelsets[14].FindCombination(r'(1[1-9]|2[0-9]|3[0-2]),(1[1-9]|2[0-9]|3[0-2]),(1[1-9]|2[0-9]|3[0-2])',
+                                              r'(1[1-9]|2[0-9]|3[0-2]),(1[1-9]|2[0-9]|3[0-2]),(10|[0-9])',
+                                              r'(1[1-9]|2[0-9]|3[0-2]),(1[1-9]|2[0-9]|3[0-2]),(10|[0-9])',
+                                              r'(1[1-9]|2[0-9]|3[0-2]),(1[1-9]|2[0-9]|3[0-2]),(1[1-9]|2[0-9]|3[0-2])',
+                                              r'(1[1-9]|2[0-9]|3[0-2]),(1[1-9]|2[0-9]|3[0-2]),(10|[0-9])', indexes=False))
+print(base_reelsets[14].mainTags['range'])

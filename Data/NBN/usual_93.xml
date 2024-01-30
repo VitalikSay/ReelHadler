@@ -1,4 +1,4 @@
-<settings GameNameShort="NBN" GameNameFull="Nothing But Net" VersionName="usual_93" id="NBN Usual usual_93 No Gamble Mon Jan 29 10:03:28 2024">
+<settings GameNameShort="NBN" GameNameFull="Nothing But Net" VersionName="usual_93" id="NBN Usual usual_93 No Gamble Tue Jan 30 10:13:40 2024">
     <ReelSets>
         <Reelset reelName="Base Game | Normal Game | RTP 86%" range="0 24829" betsIndices="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25" isFortuneBet="False" isMainCycle="true" isStartScreen="true" sectionName="Base Game" section="0" isRespin="false" isFreeSpin="false">
             <Reel>

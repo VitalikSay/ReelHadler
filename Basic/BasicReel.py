@@ -37,14 +37,10 @@ class Reel:
     def WeightSumBefore(self, position_index: int):
         return np.sum(self.weights[:position_index])
 
-    def CombinationIndex(self, combination):
+    def FindWindowIndex(self, re_pattern: str):
         str_symbols = ','.join([str(num) for num in self.symbols])
-        matches = re.finditer(combination, str_symbols)
+        matches = re.finditer(re_pattern, str_symbols)
         matches = list(matches)
         if matches:
             return str_symbols[0:matches[np.random.randint(0, len(matches))].start()].count(',')
         return False
-        # match = re.search(np.array2string(self.symbols), combination)
-        # if match:
-        #     return match.start()
-        # return False

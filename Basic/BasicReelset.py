@@ -46,11 +46,11 @@ class Reelset:
             cur_reel.ReadReel_Xml(reel, i)
             self.reels.append(cur_reel)
 
-    def FindCombination(self, *combinations, indexes=True):
+    def FindCombination(self, *re_patterns, indexes=True):
         combination_indexes = []
         for i, reel in enumerate(self.reels):
-            combination_indexes.append(reel.CombinationIndex(combinations[i]))
-        assert all(combinations), ValueError("No such patterns")
+            combination_indexes.append(reel.FindWindowIndex(re_patterns[i]))
+        assert all(re_patterns), ValueError("No such patterns")
         if not indexes:
             return [reel.WeightSumBefore(combination_indexes[i]) for i, reel in enumerate(self.reels)]
         return combination_indexes
