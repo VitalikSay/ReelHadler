@@ -23,7 +23,7 @@ class Settings:
 
     def SettingsElement_Xml(self):
         settings = ET.Element('settings')
-        reelsets = ET.SubElement(settings, 'Reelsets')
+        reelsets = ET.SubElement(settings, 'ReelSets')
         for tag_name, tag_value in self.mainTags.items():
             settings.set(tag_name, tag_value)
         for tag_name, tag_value in self.custTags.items():
@@ -87,6 +87,7 @@ class Settings:
             self.reelsets.append(cur_reelset)
             if reelset.attrib['sectionName'] not in self.section_names:
                 self.section_names.append(reelset.attrib['sectionName'])
+        self.CheckRanges()
 
     def _Prettify_Xml(self, root_elem: ET.Element):
         rough_string = ET.tostring(root_elem, 'utf-8')

@@ -12,8 +12,7 @@ class Reel:
 
     def TakeWindow(self, index: int, window_height: int):
         if index > self.Length() - window_height:
-            res = self.symbols[index:]
-            res += self.symbols[:window_height - (self.Length() - index)]
+            res = np.concatenate((self.symbols[index:], self.symbols[:window_height - (self.Length() - index)]))
             return res
         else:
             return self.symbols[index: index + window_height]
