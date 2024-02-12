@@ -1,7 +1,6 @@
 from Basic.BasicSettings import Settings
-from Basic.PathHandler import BasicPathHandler
+from Basic.Utils.PathHandler import BasicPathHandler
 import xml.etree.ElementTree as ET
-from collections import defaultdict
 
 handler = BasicPathHandler()
 reels_path = handler.GetResultDataFilePath('SLL', 'sll_orig_reels.xml')
