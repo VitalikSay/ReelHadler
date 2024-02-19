@@ -3,7 +3,7 @@ from Basic.Utils.PathHandler import BasicPathHandler
 import xml.etree.ElementTree as ET
 
 handler = BasicPathHandler()
-reels_path = handler.GetResultDataFilePath('SLL', 'all_reels_frenzy.xml', 'Reels')
+reels_path = handler.GetResultDataFilePath('SLL', 'all_reels_usual.xml', 'Reels')
 print(reels_path)
 settings_xml = ET.parse(reels_path).getroot()
 
@@ -13,9 +13,9 @@ settings.ReadSettings_Xml(settings_xml)
 reelsets = settings.GetReelsets()
 
 
-RTP = 86
+RTP = 89
 
-bet = {86: 25, 88: 50, 90: 100, 91: 200}
+bet = {88: 25, 89: 50, 90: 100, 91: 200}
 bet_index = {25:0, 50: 1, 100: 2, 200: 3}
 sections = ['Base Game',
             'Free Game',

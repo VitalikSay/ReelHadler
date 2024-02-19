@@ -1,6 +1,6 @@
 <settings GameNameShort="SLD" GameNameFull="Spartan Law" VersionName="SL_LAND_90_100_Usual_CF" id="SLD Usual SL_LAND_90_100_Usual_CF No Gamble Mon Feb 12 18:32:20 2024">
     <ReelSets>
-        <Reelset reelName="(0) Base Game | Jumbo + FS Trigger | Bet 25 RTP 88" range="0 49461" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="false" isJumbo="true">
+        <Reelset reelName="(0) Base Game | Jumbo + FS Trigger | Bet 100 RTP 90" range="0 49461" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="false" isJumbo="true">
             <Reel>
                 <Symbols>2,2,0,0,8,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,6,6,1,10,10,10,0,0,7,7,4,4,5,5,3,3,8,8,0,0,6,6,4,8,0,0,7</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -22,7 +22,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(1) Base Game | Cheap Win Symbols 5,6 | Bet 25 RTP 88" range="49462 51603" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="false">
+        <Reelset reelName="(1) Base Game | Cheap Win Symbols 5,6 | Bet 100 RTP 90" range="49462 51603" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="false">
             <Reel>
                 <Symbols>8,6,5,5,7,7,5,3,3,6,5,8,6,5,3,3,5,6,8,7,6,5,3,3,5,7,6,1,1,6,8,8,6,6,2,2,5,5,2,2,5,6,4,4,5,6,6,1,1,6,7,7,6,6,8,8,6,7,4,4,7,8,5,7,6,6,5,5,7,6,8,5,5,2,2,0,0,5,8,4,4,0,0,6,5,4,4,5</Symbols>
                 <Weights>3,188,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,188,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,187,187,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2</Weights>
@@ -44,7 +44,7 @@
                 <Weights>3,3,3,3,3,3,3,3,3,3,3,3,3,3,37,3,3,37,3,3,37,3,3,37,3,3,3,3,3,3,37,37,3,3,3,3,37,3,3,37,3,3,3,3,3,3,37,37,3,3,37,37,2,2,37,37,2,2,2,37,37,2,2,2,37,37,2,2,37,37,37,37,36,2,2,2,2,2</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(2) Base Game | Cheap Win Symbols 7,8 | Bet 25 RTP 88" range="51604 53747" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="false">
+        <Reelset reelName="(2) Base Game | Cheap Win Symbols 7,8 | Bet 100 RTP 90" range="51604 53747" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="false">
             <Reel>
                 <Symbols>7,3,3,6,8,7,7,8,6,4,4,8,8,6,2,2,7,8,0,0,8,7,1,1,7,7,8,8,7,7,8,5,6,6,7,5,5,7,8,8,6,5,8,1,1,7,8,5,7,3,3,7,8,4,4,8,5,3,3,6,5,7,4,4,7,6,6,5,2,2,7,6,8,8,2,2,8,7,4,4,5,5,8,7,7,0,0,8</Symbols>
                 <Weights>4,4,4,4,84,84,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,84,83,83,83,83,3,3,3,3,3,3,3,3,83,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,83,3,3,3,3,3</Weights>
@@ -66,7 +66,7 @@
                 <Weights>33,33,3,3,3,3,3,33,33,3,3,3,33,33,3,3,3,3,33,33,3,3,3,3,33,33,3,3,3,3,3,3,3,3,3,3,3,3,3,33,33,3,3,3,3,3,3,3,33,33,33,33,3,3,33,3,3,3,3,3,33,32,32,32,32,3,3,3,32,32,2,2,32,2,2,32,2,2</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(3) Base Game | No win | Bet 25 RTP 88" range="53748 59997" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="true" betsIndices="0" isFortuneBet="false">
+        <Reelset reelName="(3) Base Game | No win | Bet 100 RTP 90" range="53748 59997" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="true" betsIndices="2" isFortuneBet="false">
             <Reel>
                 <Symbols>2,2,8,8,8,6,1,1,5,0,0,6,6,3,3,0,6,6,2,1,1,5,0,0,6,6,2,8,5,0</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -88,7 +88,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(4) Base Game | Only Wilds | Bet 25 RTP 88" range="59998 59999" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="false">
+        <Reelset reelName="(4) Base Game | Only Wilds | Bet 100 RTP 90" range="59998 59999" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="false">
             <Reel>
                 <Symbols>9,9,9,9,9,9,9,9,9</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1</Weights>
@@ -110,7 +110,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(5) Base Game | CF Max 3 scatters 1-2-3 reels | Bet 25 RTP 88" range="60000 62599" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(5) Base Game | CF Max 3 scatters 1-2-3 reels | Bet 100 RTP 90" range="60000 62599" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>2,3,3,21,7,7,7,8,0,0,15,7,5,5,5,35,6,6,6,7,3,3,6,2,2,22,8,8,8,6,4,4,33,0,0,7,8,14,4,5,1,1,4,17,5,6,6,6,3,4,4,16,5,5,5,8,18,3,6,5,8,2,4,6,7,1,6,34,8,8,8,5,1,1,20,7,0,0,3,7,7,7,19,2,2,8,1,5</Symbols>
                 <Weights>2,20,20,20,2,2,2,2,20,20,20,2,2,4,3,3,2,2,2,2,2,2,2,17,17,16,2,2,2,2,9,8,8,2,2,14,13,13,2,2,2,47,47,46,2,2,2,2,2,30,30,30,2,2,64,63,63,2,2,2,2,2,2,2,2,5,5,5,2,2,2,2,30,30,30,2,2,2,2,2,44,43,43,2,1,1,1,1</Weights>
@@ -132,7 +132,7 @@
                 <Weights>20,20,20,0,0,0,20,20,20,20,20,0,0,0,20,20,0,0,0,0,20,20,19,19,19,0,0,0,19,19,19,0,0,0,19,19,0,0,0,19,19,0,0,0,19,19,19,19,0,0,0,0,19,19,19,0,0,0,19,19,19,0,0,0,19,19,19,19,19,19,19,19,19,19,19,19,19,0,0,0,19,19,19,0,0,0,0,19,19,19,19</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(6) Base Game | CF Max 3 scatters 3-4-5 reels | Bet 25 RTP 88" range="62600 65199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(6) Base Game | CF Max 3 scatters 3-4-5 reels | Bet 100 RTP 90" range="62600 65199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>3,3,19,7,4,8,5,7,8,5,18,7,7,7,6,3,5,5,5,7,3,15,15,2,2,6,22,8,5,7,7,7,8,4,4,17,17,3,1,8,8,8,0,0,14,5,5,5,16,16,0,0,6,6,6,16,0,0,1,6,2,4,5,8,8,8,2,2,21,6,6,6,4,1,1,15,7,8,1,1,6,7,17,2,5,3,3,20,4,4,6</Symbols>
                 <Weights>0,0,0,20,20,20,20,20,0,0,0,20,20,20,20,20,20,20,19,0,0,0,0,19,0,0,0,19,19,19,19,19,19,0,0,0,0,19,19,19,19,19,0,0,0,19,0,0,0,0,19,19,19,0,0,0,19,19,19,19,19,19,19,19,19,19,0,0,0,19,19,19,19,0,0,0,19,19,19,19,0,0,0,19,19,0,0,0,19,19,19</Weights>
@@ -154,7 +154,7 @@
                 <Weights>19,19,1,1,1,19,2,2,1,19,19,1,1,1,19,19,19,19,4,4,3,19,19,19,19,19,1,1,1,18,18,18,18,18,2,2,1,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,2,2,1,18,18,18,18,1,1,1,18,18,1,1,1,18,18,18,1,1,1,18,18,18,1,1,1,18,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(7) Base Game | CF Max 3 scatters 2-5 reels | Bet 25 RTP 88" range="65200 68199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(7) Base Game | CF Max 3 scatters 2-5 reels | Bet 100 RTP 90" range="65200 68199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>8,14,5,6,6,6,4,5,16,6,2,2,20,7,6,8,8,8,6,16,16,2,7,7,7,2,3,3,5,4,1,1,17,17,0,0,4,2,2,18,3,3,6,5,7,3,8,7,3,5,0,0,17,6,6,6,1,8,4,4,18,18,8,8,8,1,1,19,5,5,5,15,7,7,7,3,6,8,0,0,8,4,4,7,5,5,5,1,7</Symbols>
                 <Weights>0,0,18,18,18,18,0,0,0,18,0,0,0,18,18,18,18,0,0,0,0,18,18,18,18,18,18,18,18,18,0,0,0,0,18,18,18,0,0,0,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,18,18,18,0,0,0,0,18,18,18,0,0,0,18,0,0,0,18,18,18,18,18,18,18,18,17,17,17,17,17,17,17,17,0</Weights>
@@ -176,7 +176,7 @@
                 <Weights>10,34,33,33,10,10,10,10,10,10,10,10,267,267,266,10,10,10,10,10,10,10,10,67,67,66,10,10,10,10,10,10,10,10,10,10,10,10,134,133,133,10,10,10,9,9,134,133,133,9,9,9,9,300,300,300,9,200,200,200,9,9,50,50,50,9,9,434,433,433,9,9,9,9,9,400,400,400,9,84,83,83,9,9,600,600,600,9</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(8) Base Game | CF Max 3 scatters 3-4 reels | Bet 25 RTP 88" range="68200 71199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(8) Base Game | CF Max 3 scatters 3-4 reels | Bet 100 RTP 90" range="68200 71199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>6,3,4,8,7,0,0,18,18,5,8,0,0,7,2,4,4,20,7,7,7,17,8,8,8,17,17,3,3,7,6,6,6,1,8,5,1,1,6,2,2,3,0,0,16,6,6,6,1,1,15,5,5,5,16,16,7,7,7,8,3,5,2,7,6,5,7,4,6,8,2,2,19,5,5,5,14,3,3,4,4,18,8,8,8,6,1,4,5</Symbols>
                 <Weights>18,18,18,18,18,0,0,0,0,18,18,18,18,18,18,0,0,0,18,0,0,0,18,0,0,0,0,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,18,0,0,0,18,0,0,0,0,18,18,18,18,18,18,18,18,18,18,18,18,18,18,0,0,0,18,0,0,0,18,17,0,0,0,17,17,17,17,17,17,17</Weights>
@@ -198,7 +198,7 @@
                 <Weights>18,0,0,0,18,18,18,18,18,18,18,0,0,0,18,18,18,18,18,18,0,0,0,0,18,18,18,18,18,0,0,0,0,18,18,18,18,18,18,18,18,18,18,0,0,0,18,0,0,0,18,18,18,18,18,0,0,0,0,18,18,18,18,18,18,18,0,0,0,18,18,0,0,0,18,18,18,18,0,0,0,17,17,17,17,17,17,17,17</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(9) Base Game | CF Max 3 scatters 2 reel | Bet 25 RTP 88" range="71200 74699" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(9) Base Game | CF Max 3 scatters 2 reel | Bet 100 RTP 90" range="71200 74699" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>7,18,6,5,5,5,16,6,3,3,6,0,0,5,8,8,8,5,1,1,5,20,8,6,6,6,8,2,19,4,4,1,8,6,6,6,16,16,2,2,7,7,7,17,0,0,6,1,3,4,8,17,17,5,5,5,4,2,7,7,7,15,8,1,1,14,3,8,8,8,5,7,4,4,3,7,2,2,7,0,0,18,18,3,3,6,7,4,5</Symbols>
                 <Weights>0,0,18,18,0,0,0,18,18,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,18,18,0,0,0,18,18,18,18,18,0,0,0,0,18,18,18,0,0,0,18,18,18,18,18,0,0,0,0,18,18,18,18,18,18,0,0,0,18,0,0,0,18,18,18,18,18,18,18,18,18,18,17,17,17,0,0,0,0,17,17,17,17,17,0</Weights>
@@ -220,7 +220,7 @@
                 <Weights>0,18,18,18,0,0,0,18,18,18,18,18,0,0,0,0,18,0,0,0,0,18,18,18,18,0,0,0,18,18,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,18,18,18,18,18,18,18,0,0,0,18,0,0,0,0,18,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,17,17,0,0,0,17,17,17,17,17,17,0,0</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(10) Base Game | CF Max 3 scatters 3 reel | Bet 25 RTP 88" range="74700 78199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(10) Base Game | CF Max 3 scatters 3 reel | Bet 100 RTP 90" range="74700 78199" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>2,5,8,3,4,5,8,0,0,18,18,7,7,7,17,8,8,8,1,1,14,7,7,7,16,0,0,6,6,6,20,4,4,6,8,8,8,2,6,6,6,8,1,1,3,2,2,7,4,4,17,17,6,5,5,5,18,0,0,6,7,5,6,3,15,1,7,5,5,5,16,16,3,3,4,8,5,7,6,4,1,2,2,19,3,3,7,5,8</Symbols>
                 <Weights>18,18,18,18,18,18,18,0,0,0,0,18,0,0,0,18,18,18,0,0,0,18,0,0,0,18,18,18,0,0,0,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,0,0,0,0,18,18,0,0,0,18,18,18,18,18,0,0,0,18,18,18,0,0,0,0,18,18,18,18,18,18,17,17,17,0,0,0,17,17,17,17,17</Weights>
@@ -242,7 +242,7 @@
                 <Weights>18,18,0,0,0,18,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,18,18,18,18,0,0,0,18,18,18,18,18,18,18,18,0,0,0,0,18,18,18,18,0,0,0,18,0,0,0,0,18,18,18,18,18,0,0,0,18,18,18,18,18,18,0,0,0,0,18,0,0,0,18,18,18,18,17,17,17,17,17,17,0,0,0,17,17</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(11) Base Game | CF Max 3 scatters 5 reel | Bet 25 RTP 88" range="78200 79999" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(11) Base Game | CF Max 3 scatters 5 reel | Bet 100 RTP 90" range="78200 79999" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>3,7,4,4,18,18,5,8,7,7,7,17,17,6,6,6,16,7,7,7,5,15,3,6,1,2,4,6,7,0,0,1,4,6,8,7,5,2,2,20,1,1,8,3,3,5,4,2,8,8,8,6,19,5,8,3,7,0,0,16,16,4,4,6,6,6,8,2,2,14,1,1,7,5,5,5,17,3,3,8,8,8,18,5,5,5,6,0,0</Symbols>
                 <Weights>18,18,0,0,0,0,18,18,18,0,0,0,0,18,0,0,0,18,18,0,0,0,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,18,18,18,18,18,18,18,18,0,0,0,18,18,18,18,0,0,0,0,18,18,18,18,18,18,0,0,0,18,18,18,18,0,0,0,18,17,17,0,0,0,17,17,17,17,17,17</Weights>
@@ -264,7 +264,7 @@
                 <Weights>6,6,6,6,6,6,6,6,6,11,3,54,3,11,6,6,6,6,6,6,11,3,54,3,11,6,6,6,6,6,6,6,6,6,11,3,54,3,11,6,6,11,3,54,3,11,6,6,6,6,6,6,6,11,2,54,2,11,6,6,6,6,6,10,2,54,2,10,6,6,6,10,2,53,2,10,6,6,6,6,6,6,6,6,10,2,53,2,10,6,6,6,6,6,6,6,6,6,6,6</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(12) Base Game | CF Max 12 scatters Common trigger | Bet 25 RTP 88" range="80000 99999" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="False">
+        <Reelset reelName="(12) Base Game | CF Max 12 scatters Common trigger | Bet 100 RTP 90" range="80000 99999" section="0" sectionName="Base Game" isMainCycle="true" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="False">
             <Reel>
                 <Symbols>6,4,15,3,6,1,1,33,5,7,8,14,5,4,4,0,0,18,3,3,2,7,19,8,1,5,5,5,15,14,1,1,2,2,16,15,7,7,7,4,3,14,5,5,5,16,14,15,6,2,1,15,6,7,2,2,8,15,15,6,6,6,14,5,0,0,8,5,20,3,6,8,8,8,17,7,7,7,14,4,4,8,8,8,14,15,14,3,3,8,6,7,14,14,1,0,0,7,5,18,14,6,6,6,16,2,3,4,7,14,16,5,4,8</Symbols>
                 <Weights>224,224,224,1841,1841,10,10,10,1841,565,565,565,1841,1841,1841,8,8,7,1841,1841,10,10,10,1841,1841,1841,224,210,210,565,1841,1841,94,15,15,224,1841,1841,1841,565,565,565,1841,94,0,1000,0,224,1841,224,223,223,1841,1841,1841,223,90,90,223,1841,565,565,565,1841,1841,1841,10,10,10,1841,1841,1841,44,43,43,1841,565,565,565,1841,1841,1841,565,0,1000,210,564,1841,1841,1841,564,1040,1040,564,1841,1841,1841,7,15,15,564,1841,93,93,93,1841,1840,564,25,25,93,1840,1840,1840</Weights>
@@ -286,7 +286,7 @@
                 <Weights>1713,1713,1713,8,8,7,1713,1713,1713,1713,1713,230,410,410,571,1713,1713,1713,1713,1713,1713,1713,1713,571,571,571,1713,571,571,571,1713,230,230,230,1713,1713,108,108,108,1713,571,571,571,1713,108,15,15,230,1713,1713,1713,230,85,85,230,1713,1713,1713,1713,570,15,15,108,1713,44,43,43,1713,1713,10,10,10,1713,1713,1712,1712,7,15,15,570,1712,1712,10,10,10,1712,230,230,230,1712,1712,1712,1712,1712,570,570,570,1712,10,10,10,1712,570,1960,1960,570,1712,1712</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(13) Free Game | Jumbo + FS Trigger | Bet 25 RTP 88" range="0 0" section="1" sectionName="Free Game" isMainCycle="false" isFreeSpin="true" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="false" isJumbo="true">
+        <Reelset reelName="(13) Free Game | Jumbo + FS Trigger | Bet 100 RTP 90" range="0 0" section="1" sectionName="Free Game" isMainCycle="false" isFreeSpin="true" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="false" isJumbo="true">
             <Reel>
                 <Symbols>2,8,8,1,1,7,7,1,1,6,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,10,10,10,5,6,7,7,3,4,6,8,0,7,5,5</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -308,7 +308,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(14) Base Re-Spin | Jumbo 1-2-3 | Bet 25 RTP 88" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="3" isJumbo="true">
+        <Reelset reelName="(14) Base Re-Spin | Jumbo 1-2-3 | Bet 100 RTP 90" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="3" isJumbo="true">
             <Reel>
                 <Symbols>13,13,13,12,12,12,13,13,13,11,11,11,13,13,13,12,12,12,13,13,13,11,11,11,12,12,12,13,13,13</Symbols>
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
@@ -330,7 +330,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(15) Base Re-Spin | Jumbo 2-3-4 | Bet 25 RTP 88" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="3" isJumbo="true">
+        <Reelset reelName="(15) Base Re-Spin | Jumbo 2-3-4 | Bet 100 RTP 90" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="3" isJumbo="true">
             <Reel>
                 <Symbols>3,3,1,1,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,1,1,0,0,2,2,3,3,1,1,2,2,3,3,4,4</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -352,7 +352,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(16) Base Re-Spin | Jumbo 3-4-5 | Bet 25 RTP 88" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="2" jumboSymbolLength="3" isJumbo="true">
+        <Reelset reelName="(16) Base Re-Spin | Jumbo 3-4-5 | Bet 100 RTP 90" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="2" jumboSymbolLength="3" isJumbo="true">
             <Reel>
                 <Symbols>3,3,1,1,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,1,1,0,0,2,2,3,3,1,1,2,2,3,3,4,4</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -374,7 +374,7 @@
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(17) Base Re-Spin | Jumbo 1-2-3-4 | Bet 25 RTP 88" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="4" isJumbo="true">
+        <Reelset reelName="(17) Base Re-Spin | Jumbo 1-2-3-4 | Bet 100 RTP 90" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="4" isJumbo="true">
             <Reel>
                 <Symbols>11,11,11,12,12,12,13,13,13,11,11,11,11,11,11,12,12,12,13,13,13,11,11,11,12,12,12,13,13,13</Symbols>
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
@@ -396,7 +396,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(18) Base Re-Spin | Jumbo 2-3-4-5 | Bet 25 RTP 88" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="4" isJumbo="true">
+        <Reelset reelName="(18) Base Re-Spin | Jumbo 2-3-4-5 | Bet 100 RTP 90" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="4" isJumbo="true">
             <Reel>
                 <Symbols>3,3,1,1,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,1,1,0,0,2,2,3,3,1,1,2,2,3,3,4,4</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -418,7 +418,7 @@
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(19) Base Re-Spin | Jumbo 1-2-3-4-5 | Bet 25 RTP 88" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="5" isJumbo="true">
+        <Reelset reelName="(19) Base Re-Spin | Jumbo 1-2-3-4-5 | Bet 100 RTP 90" range="0 0" section="2" sectionName="Base Re-Spin" isMainCycle="true" isFreeSpin="false" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="5" isJumbo="true">
             <Reel>
                 <Symbols>11,11,11,12,12,12,13,13,13,11,11,11,13,13,13,12,12,12,13,13,13,11,11,11,12,12,12,13,13,13,12,12,12,12,12,12,11,11,11,12,12,12,13,13,13,11,11,11,12,12,12,11,11,11,12,12,12,13,13,13</Symbols>
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
@@ -440,7 +440,7 @@
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(20) Free Re-Spin | Jumbo 1-2-3 | Bet 25 RTP 88" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="3" isJumbo="true">
+        <Reelset reelName="(20) Free Re-Spin | Jumbo 1-2-3 | Bet 100 RTP 90" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="3" isJumbo="true">
             <Reel>
                 <Symbols>13,13,13,12,12,12,13,13,13,11,11,11,13,13,13,12,12,12,13,13,13,11,11,11,12,12,12,13,13,13</Symbols>
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
@@ -462,7 +462,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(21) Free Re-Spin | Jumbo 2-3-4 | Bet 25 RTP 88" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="3" isJumbo="true">
+        <Reelset reelName="(21) Free Re-Spin | Jumbo 2-3-4 | Bet 100 RTP 90" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="3" isJumbo="true">
             <Reel>
                 <Symbols>3,3,1,1,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,1,1,0,0,2,2,3,3,1,1,2,2,3,3,4,4</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -484,7 +484,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(22) Free Re-Spin | Jumbo 3-4-5 | Bet 25 RTP 88" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="2" jumboSymbolLength="3" isJumbo="true">
+        <Reelset reelName="(22) Free Re-Spin | Jumbo 3-4-5 | Bet 100 RTP 90" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="2" jumboSymbolLength="3" isJumbo="true">
             <Reel>
                 <Symbols>3,3,1,1,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,1,1,0,0,2,2,3,3,1,1,2,2,3,3,4,4</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -506,7 +506,7 @@
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(23) Free Re-Spin | Jumbo 1-2-3-4 | Bet 25 RTP 88" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="4" isJumbo="true">
+        <Reelset reelName="(23) Free Re-Spin | Jumbo 1-2-3-4 | Bet 100 RTP 90" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="4" isJumbo="true">
             <Reel>
                 <Symbols>11,11,11,12,12,12,13,13,13,11,11,11,11,11,11,12,12,12,13,13,13,11,11,11,12,12,12,13,13,13</Symbols>
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
@@ -528,7 +528,7 @@
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(24) Free Re-Spin | Jumbo 2-3-4-5 | Bet 25 RTP 88" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="4" isJumbo="true">
+        <Reelset reelName="(24) Free Re-Spin | Jumbo 2-3-4-5 | Bet 100 RTP 90" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="1" jumboSymbolLength="4" isJumbo="true">
             <Reel>
                 <Symbols>3,3,1,1,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,1,1,0,0,2,2,3,3,1,1,2,2,3,3,4,4</Symbols>
                 <Weights>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</Weights>
@@ -550,7 +550,7 @@
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(25) Free Re-Spin | Jumbo 1-2-3-4-5 | Bet 25 RTP 88" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="0" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="5" isJumbo="true">
+        <Reelset reelName="(25) Free Re-Spin | Jumbo 1-2-3-4-5 | Bet 100 RTP 90" range="0 0" section="3" sectionName="Free Re-Spin" isMainCycle="false" isFreeSpin="true" isRespin="true" isStartScreen="false" betsIndices="2" isFortuneBet="false" firstJumboReel="0" jumboSymbolLength="5" isJumbo="true">
             <Reel>
                 <Symbols>11,11,11,12,12,12,13,13,13,11,11,11,13,13,13,12,12,12,13,13,13,11,11,11,12,12,12,13,13,13,12,12,12,12,12,12,11,11,11,12,12,12,13,13,13,11,11,11,12,12,12,11,11,11,12,12,12,13,13,13</Symbols>
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
@@ -572,7 +572,7 @@
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
             </Reel>
         </Reelset>
-        <Reelset reelName="(26) Common Feature | CF Fictive | Bet 25 RTP 88" range="0 0" section="4" sectionName="Common Feature" isMainCycle="false" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="0" isFortuneBet="false">
+        <Reelset reelName="(26) Common Feature | CF Fictive | Bet 100 RTP 90" range="0 0" section="4" sectionName="Common Feature" isMainCycle="false" isFreeSpin="false" isRespin="false" isStartScreen="false" betsIndices="2" isFortuneBet="false">
             <Reel>
                 <Symbols>11,11,11,12,12,12,13,13,13,11,11,11,13,13,13,12,12,12,13,13,13,11,11,11,12,12,12,13,13,13,12,12,12,12,12,12,11,11,11,12,12,12,13,13,13,11,11,11,12,12,12,11,11,11,12,12,12,13,13,13</Symbols>
                 <Weights>1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0</Weights>
