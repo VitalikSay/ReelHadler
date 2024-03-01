@@ -1,5 +1,5 @@
 from Basic.BasicSettings import Settings
-from Basic.PathHandler import BasicPathHandler
+from Basic.Utils.PathHandler import BasicPathHandler
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 

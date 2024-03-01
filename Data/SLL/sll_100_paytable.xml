@@ -1,0 +1,134 @@
+<WinLinePayTable forBet="100">
+    <Payment symbolId="0" name="Main_Character_Symbol">
+        <Payments numOfSymbols="3" Pay="80" />
+        <Payments numOfSymbols="4" Pay="100" />
+        <Payments numOfSymbols="5" Pay="250" />
+    </Payment>
+    <Payment symbolId="1" name="Spartan_warrior_and_Spartan_Wife">
+        <Payments numOfSymbols="3" Pay="80" />
+        <Payments numOfSymbols="4" Pay="100" />
+        <Payments numOfSymbols="5" Pay="200" />
+    </Payment>
+    <Payment symbolId="2" name="Spartan_Warriors_Celebrating">
+        <Payments numOfSymbols="3" Pay="50" />
+        <Payments numOfSymbols="4" Pay="80" />
+        <Payments numOfSymbols="5" Pay="160" />
+    </Payment>
+    <Payment symbolId="3" name="Spartan_Warriors_Training">
+        <Payments numOfSymbols="3" Pay="50" />
+        <Payments numOfSymbols="4" Pay="80" />
+        <Payments numOfSymbols="5" Pay="140" />
+    </Payment>
+    <Payment symbolId="4" name="Spartan_Armour">
+        <Payments numOfSymbols="3" Pay="50" />
+        <Payments numOfSymbols="4" Pay="80" />
+        <Payments numOfSymbols="5" Pay="120" />
+    </Payment>
+    <Payment symbolId="5" name="A">
+        <Payments numOfSymbols="3" Pay="40" />
+        <Payments numOfSymbols="4" Pay="60" />
+        <Payments numOfSymbols="5" Pay="100" />
+    </Payment>
+    <Payment symbolId="6" name="K">
+        <Payments numOfSymbols="3" Pay="40" />
+        <Payments numOfSymbols="4" Pay="60" />
+        <Payments numOfSymbols="5" Pay="100" />
+    </Payment>
+    <Payment symbolId="7" name="Q">
+        <Payments numOfSymbols="3" Pay="40" />
+        <Payments numOfSymbols="4" Pay="60" />
+        <Payments numOfSymbols="5" Pay="80" />
+    </Payment>
+    <Payment symbolId="8" name="J">
+        <Payments numOfSymbols="3" Pay="40" />
+        <Payments numOfSymbols="4" Pay="60" />
+        <Payments numOfSymbols="5" Pay="80" />
+    </Payment>
+    <Payment symbolId="9" name="Wild">
+        <Payments numOfSymbols="5" Pay="250" />
+    </Payment>
+    <Payment symbolId="10" name="Scatter">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="11" name="Jumbo_symbol_11">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="12" name="Jumbo_symbol_12">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="13" name="Jumbo_symbol_13">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="14" name="Cash_x1">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="15" name="Cash_x2">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="16" name="Cash_x3">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="17" name="Cash_x4">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="18" name="Cash_x5">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="19" name="Cash_x10">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="20" name="Cash_x15">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="21" name="Cash_x20">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="22" name="Cash_x25">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="23" name="Cash_x6">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="24" name="Cash_x8">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="25" name="Cash_x12">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="26" name="Cash_x16">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="27" name="Cash_x30">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="28" name="Cash_x40">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="29" name="Cash_x50">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="30" name="Cash_x60">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="31" name="Cash_x80">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="32" name="Cash_x100">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="33" name="Mini_x50">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="34" name="Minor_x100">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="35" name="Major_x250">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="36" name="Grand_x500">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+    <Payment symbolId="37" name="Free_Place">
+        <Payments numOfSymbols="5" Pay="0" />
+    </Payment>
+</WinLinePayTable>
