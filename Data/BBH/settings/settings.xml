@@ -1,0 +1,139 @@
+<settings GameNameShort="BBH" GameNameFull="Book of Bier Haus" VersionName="BBHD_Usual_93" id="BBH Usual BBHD_Usual_93 No Gamble Sun Mar 17 12:47:12 2024">
+    <simulationSettings>
+        <simulationType>Usual</simulationType>
+        <totalSpinCount>10000000</totalSpinCount>
+        <threads>100</threads>
+        <printBar>true</printBar>
+        <featureFreeSpinCount>10</featureFreeSpinCount>
+        <currentBet>10</currentBet>
+        <featureMult>1</featureMult>
+        <winLimit>25000000</winLimit>
+        <createPAR flag="true"/>
+        <createTxtStats flag="true"/>
+        <Gamble enable="false">
+            <MaxRoundCounter>5</MaxRoundCounter>
+            <variant>Color</variant>
+            <choice>UntilTheEnd</choice>
+        </Gamble>
+        <!-- Best Strategy, Random Strategy, Worst Strategy, Never Make Re-Spin Feature, Always Make Re-Spin Feature-->
+        <FeatureRespin strategy="Best Strategy"/>
+        <!-- Just Random, Write, Read-->
+        <UserChoice mode="Just Random"/>
+    </simulationSettings>
+    <generalSettings>
+        <boardSize height="3" width="5"/>
+        <lineWins>Left to Right on a payline</lineWins>
+        <Bets>10 20 50 100 150 200 250 300 400 500 750 1000 1250 1500 2000 2500 5000 7500 10000 12000 14000 16000 18000 20000 22500 25000</Bets>
+        <numberofFreeSpins>
+            <UsualSpin>
+                <Count scatterCounter="3" numberofFreeSpins="10"/>
+                <Count scatterCounter="4" numberofFreeSpins="10"/>
+                <Count scatterCounter="5" numberofFreeSpins="10"/>
+            </UsualSpin>
+        </numberofFreeSpins>
+        <WinLines>
+            <Line index="0" config="1,1,1,1,1"/>
+            <Line index="1" config="0,0,0,0,0"/>
+            <Line index="2" config="2,2,2,2,2"/>
+            <Line index="3" config="0,1,2,1,0"/>
+            <Line index="4" config="2,1,0,1,2"/>
+            <Line index="5" config="1,0,0,0,1"/>
+            <Line index="6" config="1,2,2,2,1"/>
+            <Line index="7" config="0,0,1,2,2"/>
+            <Line index="8" config="2,2,1,0,0"/>
+            <Line index="9" config="1,2,1,0,1"/>
+        </WinLines>
+        <!-- It is important to Beer symbols to have identical paytable !!!! -->
+        <WinLinePayTable forBet="10">
+            <Payment symbolId="0" name="German_Barmaid">
+                <Payments numOfSymbols="2" Pay="10"/>
+                <Payments numOfSymbols="3" Pay="100"/>
+                <Payments numOfSymbols="4" Pay="1000"/>
+                <Payments numOfSymbols="5" Pay="5000"/>
+            </Payment>
+            <Payment symbolId="1" name="German_Drinker">
+                <Payments numOfSymbols="2" Pay="5"/>
+                <Payments numOfSymbols="3" Pay="40"/>
+                <Payments numOfSymbols="4" Pay="400"/>
+                <Payments numOfSymbols="5" Pay="2000"/>
+            </Payment>
+            <Payment symbolId="2" name="German_Bar">
+                <Payments numOfSymbols="2" Pay="5"/>
+                <Payments numOfSymbols="3" Pay="30"/>
+                <Payments numOfSymbols="4" Pay="100"/>
+                <Payments numOfSymbols="5" Pay="750"/>
+            </Payment>
+            <Payment symbolId="3" name="German_Beer_Pump">
+                <Payments numOfSymbols="2" Pay="5"/>
+                <Payments numOfSymbols="3" Pay="30"/>
+                <Payments numOfSymbols="4" Pay="100"/>
+                <Payments numOfSymbols="5" Pay="750"/>
+            </Payment>
+            <Payment symbolId="4" name="A">
+                <Payments numOfSymbols="3" Pay="5"/>
+                <Payments numOfSymbols="4" Pay="40"/>
+                <Payments numOfSymbols="5" Pay="150"/>
+            </Payment>
+            <Payment symbolId="5" name="K">
+                <Payments numOfSymbols="3" Pay="5"/>
+                <Payments numOfSymbols="4" Pay="40"/>
+                <Payments numOfSymbols="5" Pay="150"/>
+            </Payment>
+            <Payment symbolId="6" name="Q">
+                <Payments numOfSymbols="3" Pay="5"/>
+                <Payments numOfSymbols="4" Pay="25"/>
+                <Payments numOfSymbols="5" Pay="100"/>
+            </Payment>
+            <Payment symbolId="7" name="J">
+                <Payments numOfSymbols="3" Pay="5"/>
+                <Payments numOfSymbols="4" Pay="25"/>
+                <Payments numOfSymbols="5" Pay="100"/>
+            </Payment>
+            <Payment symbolId="8" name="10">
+                <Payments numOfSymbols="3" Pay="5"/>
+                <Payments numOfSymbols="4" Pay="25"/>
+                <Payments numOfSymbols="5" Pay="100"/>
+            </Payment>
+            <Payment symbolId="9" name="Scatter">
+                <Payments numOfSymbols="5" Pay="0"/>
+            </Payment>
+        </WinLinePayTable>
+        <Scatter symbolId="9"/>
+        <Wild symbolId="9"/>
+        <FeatureRespin>
+            <AvgWinMult>
+                <Usual fs_count="10">40.0</Usual>
+            </AvgWinMult>
+        </FeatureRespin>
+    </generalSettings>
+    <ReelsPath>
+        <UsualSpin fileName="reels_usual_93.xml"/>
+    </ReelsPath>
+    <FreeSpinsSettings max_spin_count="20">
+        <SpecialSymbol symbolId="0" weight="1"/>
+        <SpecialSymbol symbolId="1" weight="1"/>
+        <SpecialSymbol symbolId="2" weight="1"/>
+        <SpecialSymbol symbolId="3" weight="1"/>
+        <SpecialSymbol symbolId="4" weight="1"/>
+        <SpecialSymbol symbolId="5" weight="1"/>
+        <SpecialSymbol symbolId="6" weight="1"/>
+        <SpecialSymbol symbolId="7" weight="1"/>
+        <SpecialSymbol symbolId="8" weight="1"/>
+    </FreeSpinsSettings>
+    <FreeRespinSettings max_spin_count="20">
+        <SpecialSymbol symbolId="0" weight="1"/>
+        <SpecialSymbol symbolId="1" weight="1"/>
+        <SpecialSymbol symbolId="2" weight="1"/>
+        <SpecialSymbol symbolId="3" weight="1"/>
+        <SpecialSymbol symbolId="4" weight="1"/>
+        <SpecialSymbol symbolId="5" weight="1"/>
+        <SpecialSymbol symbolId="6" weight="1"/>
+        <SpecialSymbol symbolId="7" weight="1"/>
+        <SpecialSymbol symbolId="8" weight="1"/>
+    </FreeRespinSettings>
+    <ScatterCustomPay>
+        <Payments numOfSymbols="3" mult="2"/>
+        <Payments numOfSymbols="4" mult="20"/>
+        <Payments numOfSymbols="5" mult="200"/>
+    </ScatterCustomPay>
+</settings>

@@ -1,4 +1,4 @@
-from Basic.BasicSettings import Settings
+from Basic.BasicReelsets import Reelsets
 from Basic.Utils.PathHandler import BasicPathHandler
 import xml.etree.ElementTree as ET
 from collections import defaultdict
@@ -9,7 +9,7 @@ reels_path = handler.GetResultDataFilePath('TUNA', 'bier_reels.xml')
 print(reels_path)
 settings_xml = ET.parse(reels_path).getroot()
 
-settings = Settings()
+settings = Reelsets()
 settings.ReadSettings_Xml(settings_xml)
 
 reelsets = settings.GetReelsets()

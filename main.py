@@ -1,4 +1,4 @@
-from Basic.BasicSettings import Settings
+from Basic.BasicReelsets import Reelsets
 from Basic.Utils.PathHandler import BasicPathHandler
 import xml.etree.ElementTree as ET
 
@@ -7,7 +7,7 @@ reels_path = handler.GetResultDataFilePath('SLL', 'cf_reels_nbn.xml')
 print(reels_path)
 settings_xml = ET.parse(reels_path).getroot()
 
-settings = Settings()
+settings = Reelsets()
 settings.ReadSettings_Xml(settings_xml)
 
 base_reelsets = settings.GetReelsets()

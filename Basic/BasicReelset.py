@@ -1,6 +1,7 @@
 import numpy as np
 import xml.etree.ElementTree as ET
 from Basic.BasicReel import Reel
+from Basic.BasicBoard import Board
 
 
 class Reelset:
@@ -54,5 +55,19 @@ class Reelset:
         if not indexes:
             return [reel.WeightSumBefore(combination_indexes[i]) for i, reel in enumerate(self.reels)]
         return combination_indexes
+
+    def SymbolProbBoard(self, window_height=3):
+        res = dict()
+
+        for i, reel in enumerate(self.reels):
+            reel_res = reel.CalcSymbolProbs(window_height)
+            for symbol, probs in reel_res.items():
+                if symbol not in res:
+                    board = Board()
+                    board.CreateTable(window_height, len(self.reels), default_value=0, dtype='float64')
+                    res[symbol] = board
+                for j in range(len(probs)):
+                    res[symbol].SetSymbol(j, i, probs[j])
+        return res
 
 

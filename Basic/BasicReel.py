@@ -43,3 +43,19 @@ class Reel:
         if matches:
             return str_symbols[0:matches[np.random.randint(0, len(matches))].start()].count(',')
         return False
+
+    def CalcSymbolProbs(self, window_height=3):
+        symbols = list(set(self.symbols))
+        res = dict()
+
+        for symbol in symbols:
+            symbol_weights = [0 for _ in range(window_height)]
+            for i in range(len(self.symbols)):
+                window = self.TakeWindow(i, window_height)
+                for j in range(window_height):
+                    if window[j] == symbol:
+                        symbol_weights[j] += self.weights[i]
+            symbol_weights = [symbol_weights[k] / np.sum(self.weights) for k in range(window_height)]
+            res[symbol] = symbol_weights
+        return res
+

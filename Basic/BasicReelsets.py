@@ -4,7 +4,7 @@ from Basic.BasicReelset import Reelset
 from Basic.Utils.PathHandler import BasicPathHandler
 
 
-class Settings:
+class Reelsets:
     def __init__(self):
         self.mainTags = {'GameNameShort': 'Test',
                          'GameNameFull': 'Test',
