@@ -42,13 +42,13 @@ reelset_names    = ['Base Game | Normal',
                     'Base Game | Blocker 2',
 
                     'Free Spins | Special Symbol 0 on 1,5 Reels',
-                    'Free Spins | Special Symbol 0 on All Reels',
+                    'Free Spins | Special Symbol 0 on 2,3 Reels',
+                    'Free Spins | Special Symbol 0 on 3,4 Reels',
                     'Free Spins | Special Symbol 0 None in Reels',
 
-                    'Free Spins | Special Symbol 1 High Prob on 2,4 Reels',
-                    'Free Spins | Special Symbol 1 High Prob on 1,2 Reels',
-                    'Free Spins | Special Symbol 1 High Prob on 3,5 Reels',
-                    'Free Spins | Special Symbol 1 Low Prob on All Reels',
+                    'Free Spins | Special Symbol 1 on 3,5 Reels',
+                    'Free Spins | Special Symbol 1 on 2,4 Reels',
+                    'Free Spins | Special Symbol 1 on 1,3 Reels',
                     'Free Spins | Special Symbol 1 None in Reels',
 
                     'Free Spins | Special Symbol 2 High Prob on 1,2,3 Reels',
@@ -74,10 +74,12 @@ reelset_names    = ['Base Game | Normal',
                     'Free Spins | Special Symbol 8 High Prob on 1,3 Reels, Lower Prob on Reels 2,5',
                     'Free Spins | Special Symbol 8 None in Reels',
 
-                    'Feature Re-Spin Free Spins | Special Symbol 0 High Prob',
+                    'Feature Re-Spin Free Spins | Special Symbol 0 on 1,4 Reels',
+                    'Feature Re-Spin Free Spins | Special Symbol 0 on 2,3 Reels',
                     'Feature Re-Spin Free Spins | Special Symbol 0 Low Prob',
 
-                    'Feature Re-Spin Free Spins | Special Symbol 1 High Prob',
+                    'Feature Re-Spin Free Spins | Special Symbol 1 on 2,3,4 Reels',
+                    'Feature Re-Spin Free Spins | Special Symbol 1 on 1,3,5 Reels',
                     'Feature Re-Spin Free Spins | Special Symbol 1 Low Prob',
 
                     'Feature Re-Spin Free Spins | Special Symbol 2 High Prob',
@@ -102,10 +104,8 @@ reelset_names    = ['Base Game | Normal',
                     'Feature Re-Spin Free Spins | Special Symbol 8 Low Prob',
 
                     'Free Spins No Scatters | Normal',
-                    'Free Spins No Scatters | No Special Symbols Type 1',
-                    'Free Spins No Scatters | No Special Symbols Type 2',
-                    'Free Spins No Scatters | No Special Symbols Type 3',
-                    'Free Spins No Scatters | No Special Symbols Type 4']
+                    'Free Spins No Scatters | Normal 2',
+                    ]
 
 for reelset_index, reelset in enumerate(reelsets):
     section = int(reelset.mainTags['section'])
